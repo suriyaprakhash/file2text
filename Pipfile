@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+# ocr
+pytesseract = "*"
+# convert pdf to image
+pdf2image = "*"
+# to determine the file type
+filetype = "*"
+# for props
+configparser = "5.0.2"
+opencv-python = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
