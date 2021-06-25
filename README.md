@@ -41,7 +41,7 @@ from the <b>src</b> to the <b>dest</b>
 The following command executes the program, make user that the <b>python</b> is pointing to the correct <b>virtualenv</b>
 
 ```cmd
-C:\Users\suriy\.virtualenvs\ocr-57noBn2c\Scripts\python.exe C:/Suriya/ws/Python/ocr/main.py
+${user.home}\file2text-{generated}\Scripts\python.exe C:/Suriya/ws/Python/ocr/main.py
 ```
 
 ## Contribution
